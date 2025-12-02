@@ -9,7 +9,7 @@ Based in **Monterrey, N.L., Mexico**, I am a bilingual engineer passionate about
 
 I specialize in designing robust architectures using **Java (Spring Boot)** and **Python**, with a strong focus on Cloud Computing (**AWS**) and Data Engineering. My approach combines clean coding practices with agile methodologies to solve complex problems.
 
-* [cite_start]🎓 **Education:** Data Engineering at Universidad Politécnica de Yucatán[cite: 34, 35].
+* 🎓 **Education:** Data Engineering at Universidad Politécnica de Yucatán.
 * 🎯 **Current Focus:** Deepening my knowledge in **Big Data** and **Data Science**, aiming for a Master's degree abroad.
 * 💡 **Interests:** Beyond code, I'm interested in **Color Psychology**, I'm a huge fan of **Liverpool FC** (YNWA!), and I enjoy the satisfying mechanics of Minecraft blocks.
 
@@ -38,7 +38,7 @@ I specialize in designing robust architectures using **Java (Spring Boot)** and 
 ### 🏥 Sensor PAT "Foot 2.0" (Big Data & Microservices)
 *An IoT medical data ingestion system aimed at processing 250k+ records without interruption.*
 * **Tech:** Kafka, MongoDB, DynamoDB.
-* [cite_start]**Role:** Designed the data flow for real-time capture and analysis of patient metrics[cite: 29, 30, 31].
+* **Role:** Designed the data flow for real-time capture and analysis of patient metrics.
 
 ### 👻 Haunted Server (Java REST API)
 *An Escape Room game structure implemented as a REST API.*
@@ -51,7 +51,7 @@ I specialize in designing robust architectures using **Java (Spring Boot)** and 
 
 ### ⚽ Sports Sponsorship Platform (Full Stack)
 *Web platform for managing sports sponsorships.*
-* [cite_start]**Tech:** React, TypeScript, Node.js, NestJS, PostgreSQL[cite: 21, 22, 23].
+* **Tech:** React, TypeScript, Node.js, NestJS, PostgreSQL.
 
 ---
 
@@ -59,10 +59,10 @@ I specialize in designing robust architectures using **Java (Spring Boot)** and 
 
 | Certification | Issuer | Date |
 | :--- | :--- | :--- |
-| AWS Academy Data Engineering | AWS | [cite_start]Nov 2024 [cite: 62] |
-| AWS Academy Cloud Security Foundations | AWS | [cite_start]Jul 2025 [cite: 62] |
-| Google Project Management | Google | [cite_start]Aug 2024 [cite: 62] |
-| Business Intelligence Foundation | Oracle/Others | [cite_start]Sep 2024 [cite: 62] |
+| AWS Academy Data Engineering | AWS | Nov 2024 |
+| AWS Academy Cloud Security Foundations | AWS | Jul 2025|
+| Google Project Management | Google | Aug 2024 |
+| Business Intelligence Foundation | Oracle/Others | Sep 2024 |
 
 ---
 
