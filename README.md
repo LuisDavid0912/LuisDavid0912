@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi there, I'm Luis David Martínez 👋
+### 🚀 Data Engineer | Backend Developer | Cloud Enthusiast
 
-<!--
-**LuisDavid0912/LuisDavid0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in **Monterrey, N.L., Mexico**, I am a bilingual engineer passionate about building scalable backend solutions, automating processes with AI, and unlocking business value through data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I specialize in designing robust architectures using **Java (Spring Boot)** and **Python**, with a strong focus on Cloud Computing (**AWS**) and Data Engineering. My approach combines clean coding practices with agile methodologies to solve complex problems.
+
+* [cite_start]🎓 **Education:** Data Engineering at Universidad Politécnica de Yucatán[cite: 34, 35].
+* 🎯 **Current Focus:** Deepening my knowledge in **Big Data** and **Data Science**, aiming for a Master's degree abroad.
+* 💡 **Interests:** Beyond code, I'm interested in **Color Psychology**, I'm a huge fan of **Liverpool FC** (YNWA!), and I enjoy the satisfying mechanics of Minecraft blocks.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Data & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Sensor PAT "Foot 2.0" (Big Data & Microservices)
+*An IoT medical data ingestion system aimed at processing 250k+ records without interruption.*
+* **Tech:** Kafka, MongoDB, DynamoDB.
+* [cite_start]**Role:** Designed the data flow for real-time capture and analysis of patient metrics[cite: 29, 30, 31].
+
+### 👻 Haunted Server (Java REST API)
+*An Escape Room game structure implemented as a REST API.*
+* **Tech:** Java, Spring Boot.
+* **Concept:** A creative approach to learning backend logic and state management.
+
+### 🥯 Blueberry Bagels (Voice & AI)
+*Project focused on creating and evaluating voice-based conversations.*
+* **Focus:** Interaction design and AI integration.
+
+### ⚽ Sports Sponsorship Platform (Full Stack)
+*Web platform for managing sports sponsorships.*
+* [cite_start]**Tech:** React, TypeScript, Node.js, NestJS, PostgreSQL[cite: 21, 22, 23].
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Date |
+| :--- | :--- | :--- |
+| AWS Academy Data Engineering | AWS | [cite_start]Nov 2024 [cite: 62] |
+| AWS Academy Cloud Security Foundations | AWS | [cite_start]Jul 2025 [cite: 62] |
+| Google Project Management | Google | [cite_start]Aug 2024 [cite: 62] |
+| Business Intelligence Foundation | Oracle/Others | [cite_start]Sep 2024 [cite: 62] |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=LuisDavid0912&show_icons=true&theme=gotham" alt="LuisDavid0912" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDavid0912&layout=compact&theme=gotham" alt="LuisDavid0912" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/luisdavidmag)
+* 📧 [Email](mailto:luisdavidmtz3@gmail.com)
