@@ -66,15 +66,6 @@ I specialize in designing robust architectures using **Java (Spring Boot)** and 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=LuisDavid0912&show_icons=true&theme=gotham" alt="LuisDavid0912" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDavid0912&layout=compact&theme=gotham" alt="LuisDavid0912" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/luisdavidmag)
