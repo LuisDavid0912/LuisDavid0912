@@ -37,7 +37,7 @@ I specialize in designing robust architectures using **Java (Spring Boot)** and 
 
 ### 🏥 Sensor PAT "Foot 2.0" (Big Data & Microservices)
 *An IoT medical data ingestion system aimed at processing 250k+ records without interruption.*
-* **Tech:** Kafka, MongoDB, DynamoDB.
+* **Tech:** Python, Kafka, MongoDB, DynamoDB.
 * **Role:** Designed the data flow for real-time capture and analysis of patient metrics.
 
 ### 👻 Haunted Server (Java REST API)
@@ -45,12 +45,8 @@ I specialize in designing robust architectures using **Java (Spring Boot)** and 
 * **Tech:** Java, Spring Boot.
 * **Concept:** A creative approach to learning backend logic and state management.
 
-### 🥯 Blueberry Bagels (Voice & AI)
-*Project focused on creating and evaluating voice-based conversations.*
-* **Focus:** Interaction design and AI integration.
-
 ### ⚽ Sports Sponsorship Platform (Full Stack)
-*Web platform for managing sports sponsorships.*
+*contributor in a Web platform for managing sports sponsorships.*
 * **Tech:** React, TypeScript, Node.js, NestJS, PostgreSQL.
 
 ---
